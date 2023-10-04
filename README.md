@@ -29,3 +29,8 @@ Before using the HR Dashboard, ensure that you have the following:
     - Department
     - Education field
     - Gender
+
+## Dashboard
+
+![image](https://github.com/ketkinasery/HR-Analytics-Dashboard/assets/145470599/cc5fa28d-ad91-496e-b67b-f0494cb45d6c)
+
